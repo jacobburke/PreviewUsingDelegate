@@ -8,6 +8,8 @@
 
 import UIKit
 
+
+// Conversion to Swift 4 has been implemented.
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDelegate {
     // MARK: Properties
